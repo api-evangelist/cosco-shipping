@@ -8,11 +8,36 @@ tags:
   - Shipping
   - Ports
   - Logistics
-description: 'A Chinese state-owned multinational shipping and logistics conglomerate and the world''s largest container shipping fleet by capacity. Operates container shipping, port terminals, and bulk cargo services across global trade routes.'
+  - Container Shipping
+description: 'A Chinese state-owned multinational shipping and logistics conglomerate and the world''s largest container shipping fleet by capacity. Operates container shipping, port terminals, bulk cargo services, and digital supply chain platforms (Syncon Hub, My Reefer, Hi-Dolphin) across global trade routes.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
+x-no-public-api: true
+x-no-public-api-reason: >-
+  COSCO Shipping operates digital e-business platforms (Syncon Hub digital supply
+  chain, My Reefer reefer portal, Hi-Dolphin shipping LLM platform, container
+  tracking, and online booking) but does not publish a public developer portal,
+  REST API documentation, OpenAPI specs, or EDI/integration specs accessible to
+  third-party developers. Integrations are arranged directly through COSCO
+  account management.
 common:
   - type: Website
     url: https://en.coscoshipping.com/
+  - type: BookingPortal
+    url: https://elines.coscoshipping.com/ebbusiness/
+  - type: TrackingPortal
+    url: https://elines.coscoshipping.com/ebbusiness/cargoTracking
+  - type: PortalSynconHub
+    url: https://www.synconhub.com/
+  - type: Subsidiary
+    url: https://lines.coscoshipping.com/
+  - type: News
+    url: https://en.coscoshipping.com/col/col6914/index.html
+  - type: TermsOfService
+    url: https://en.coscoshipping.com/col/col6926/index.html
+  - type: PrivacyPolicy
+    url: https://en.coscoshipping.com/col/col6926/index.html
+  - type: ContactUs
+    url: https://en.coscoshipping.com/col/col6928/index.html
