@@ -23,6 +23,10 @@ x-no-public-api-reason: >-
   third-party developers. Integrations are arranged directly through COSCO
   account management.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/cop-cos
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/coscoshipping
   - type: Website
     url: https://en.coscoshipping.com/
   - type: BookingPortal
