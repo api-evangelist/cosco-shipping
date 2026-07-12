@@ -23,6 +23,8 @@ x-no-public-api-reason: >-
   third-party developers. Integrations are arranged directly through COSCO
   account management.
 common:
+  - type: DomainSecurity
+    url: security/cosco-shipping-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/cop-cos
   - type: LinkedIn
