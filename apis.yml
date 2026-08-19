@@ -23,7 +23,7 @@ tags:
 description: 'A Chinese state-owned multinational shipping and logistics conglomerate and the world''s largest container shipping fleet by capacity. Operates container shipping, port terminals, bulk cargo services, and digital supply chain platforms (Syncon Hub, My Reefer, Hi-Dolphin) across global trade routes.'
 created: '2026-05-05'
 modified: '2026-05-16'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 x-no-public-api: true
 x-no-public-api-reason: >-
