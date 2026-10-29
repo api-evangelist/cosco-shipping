@@ -1,4 +1,4 @@
-# COSCO Shipping (cosco-shipping)
+# COSCO Shipping
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,37 +66,80 @@
 
 A Chinese state-owned multinational shipping and logistics conglomerate and the world's largest container shipping fleet by capacity. Operates container shipping, port terminals, bulk cargo services, and digital supply chain platforms (Syncon Hub, My Reefer, Hi-Dolphin) across global trade routes.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/cosco-shipping/refs/heads/main/apis.yml)
+**Areas:** Maritime · Shipping · Ports · Logistics · Container Shipping
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=cosco-shipping-api-evangelist&utm_content=repo)
+## COSCO Shipping on APIs.io
 
-## Tags:
+Everything profiled for COSCO Shipping is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cosco-shipping/](https://apis.io/providers/cosco-shipping/)** — or go straight to one of the APIs or properties below.
 
- - Maritime, Shipping, Ports, Logistics, Container Shipping
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-16
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-COSCO Shipping does not publish a public developer portal, REST API documentation, OpenAPI specs, or EDI/integration specs accessible to third-party developers. The company operates digital platforms including Syncon Hub, My Reefer, Hi-Dolphin, and an e-business container tracking and booking portal, but integrations with these systems are arranged directly through COSCO account management rather than a self-service API program.
+- [Cosco Shipping Domain Security](https://apis.io/security/cosco-shipping/cosco-shipping-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://en.coscoshipping.com/)
-- [BookingPortal](https://elines.coscoshipping.com/ebbusiness/)
-- [TrackingPortal](https://elines.coscoshipping.com/ebbusiness/cargoTracking)
-- [Syncon Hub](https://www.synconhub.com/)
-- [Subsidiary - COSCO Shipping Lines](https://lines.coscoshipping.com/)
-- [News](https://en.coscoshipping.com/col/col6914/index.html)
-- [TermsOfService](https://en.coscoshipping.com/col/col6926/index.html)
-- [PrivacyPolicy](https://en.coscoshipping.com/col/col6926/index.html)
-- [ContactUs](https://en.coscoshipping.com/col/col6928/index.html)
+- [Terms of service](https://en.coscoshipping.com/col/col6926/index.html)
+- [Privacy policy](https://en.coscoshipping.com/col/col6926/index.html)
+- [GitHub](https://github.com/cop-cos)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** API Evangelist
+**Kin Score 3.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 43.8 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cosco-shipping/](https://apis.io/providers/cosco-shipping/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for COSCO Shipping: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cosco-shipping/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
